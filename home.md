@@ -10,6 +10,6 @@ subtitle: There's a secret on this page, can you find it?
 
 
 <a href="https://www.youtube.com/watch?v=IGjE_zgs2Hw" style="color: #F0F4F8; text-decoration: none;">
-  <span style="color: #F0F4F8;" onmouseover="this.style.color='#4A6BFF'" onmouseout="this.style.color='#F0F4F8'">.</span>
+  <span style="color: #F0F4F8;" onmouseover="this.style.color='#4A6BFF'" onmouseout="this.style.color='#F0F4F8'">...</span>
 </a>
 

@@ -1,5 +1,5 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: MedTech in the Cloud
+title: MedTech in Cloud
 author: Juan Pedro Fernandez
 
 ###############################################
@@ -112,11 +112,11 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#0A1F44"  # Azul oscuro tecnológico  
+page-col: "#1E2A3A"  # Azul grisáceo más claro  
 text-col: "#E0E0E0"  # Texto en gris claro para buen contraste  
 link-col: "#00A3FF"  # Azul eléctrico para enlaces  
 hover-col: "#007ACC"  # Azul más oscuro para hover  
-navbar-col: "#121F3D"  # Azul aún más oscuro para la barra de navegación  
+navbar-col: "#121F3D"  # Azul oscuro para la barra de navegación  
 navbar-text-col: "#E0E0E0"  # Texto claro en la navbar  
 navbar-border-col: "#1C3559"  # Borde en un azul intermedio  
 footer-col: "#121F3D"  # Mismo azul que la navbar para coherencia  
@@ -127,7 +127,7 @@ footer-hover-col: "#007ACC"  # Hover en azul más oscuro
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/1584450657312.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 

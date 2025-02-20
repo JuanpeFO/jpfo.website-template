@@ -4,7 +4,9 @@ title: About me
 subtitle: A brief personal description
 ---
 
-Hi, I'm Juan Pedro Fernandez, originally from Uruguay but living in Tarragona since childhood. I have a background in Biomedical Engineering and am currently pursuing a Master's in Health Data Science at Universitat Rovira i Virgili. My passion lies in medical technology, data-driven solutions, and the integration of AI in healthcare. I enjoy exploring innovative applications in biomedicine, from diagnostic tools to cloud-based health analytics. Feel free to explore my background below!
+Hi, I'm Juan Pedro Fernandez, originally from Uruguay but living in Tarragona since childhood. I have a background in Biomedical Engineering and am currently pursuing a Master's in Health Data Science at Universitat Rovira i Virgili. My passion lies in medical technology, data-driven solutions, and the integration of AI in healthcare. 
+
+I enjoy exploring innovative applications in biomedicine, from diagnostic tools to cloud-based health analytics. Feel free to explore my background below!
 
 ### Education
 

@@ -7,6 +7,7 @@ tags: [neuroimaging, HPC, cloud computing]
 comments: true
 mathjax: true
 author: Juan Pedro Fernandez
+by: Juan Pedro Fernandez
 ---
 
 {: .box-success}
@@ -38,13 +39,13 @@ Cloud platforms facilitate real-time collaboration among researchers across the 
 
 Neuroimaging datasets are not only large but also sensitive. Cloud solutions provide secure storage with encryption and backup protocols to ensure data integrity and compliance with privacy regulations.
 
-![Cloud-based data storage](https://www.harvard-deusto.com/sites/default/files/styles/article_front/public/2022-11/foto-ia-sanidad-web.jpg?itok=261lNw_O)
-
 ## Challenges and Considerations
 
 While the advantages of HPC in neuroimaging are significant, there are still hurdles to overcome. One challenge is the cost of cloud computing, as extensive data processing and storage can accumulate quickly. Additionally, integrating cloud-based solutions into existing healthcare infrastructures may require significant adjustments, including staff training and workflow changes.
 
 Data privacy and security are critical considerations, particularly in healthcare settings. Ensuring compliance with regulations such as HIPAA is crucial for the adoption of cloud computing in medical imaging.
+
+![Cloud-based data storage](https://www.harvard-deusto.com/sites/default/files/styles/article_front/public/2022-11/foto-ia-sanidad-web.jpg?itok=261lNw_O)
 
 ## Conclusion
 

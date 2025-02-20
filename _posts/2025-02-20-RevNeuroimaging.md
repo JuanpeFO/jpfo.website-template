@@ -38,7 +38,8 @@ Cloud platforms facilitate real-time collaboration among researchers across the 
 
 Neuroimaging datasets are not only large but also sensitive. Cloud solutions provide secure storage with encryption and backup protocols to ensure data integrity and compliance with privacy regulations.
 
-![Cloud-based data storage]({{ /images/cloud2.png | relative_url }})
+![Cloud-based data storage]({{ site.baseurl }}/assets/images/cloud2.png)
+![Cloud-based data storage]({{ site.baseurl }}/images/cloud2.png)
 
 ## Challenges and Considerations
 

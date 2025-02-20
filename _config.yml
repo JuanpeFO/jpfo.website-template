@@ -112,23 +112,23 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#E6F0F7"  # Azul suave y claro, más amigable visualmente
-text-col: "#333333"  # Texto oscuro para alto contraste y legibilidad
-link-col: "#3399FF"  # Azul brillante para enlaces, fácil de distinguir
-hover-col: "#0066CC"  # Azul más profundo para hover
-navbar-col: "#A3C4D7"  # Azul claro para la barra de navegación, no tan oscuro
-navbar-text-col: "#333333"  # Texto oscuro en la navbar para mejor contraste
-navbar-border-col: "#85A9B6"  # Borde sutil en un azul intermedio
-footer-col: "#A3C4D7"  # Azul claro que combina con la navbar para coherencia
-footer-text-col: "#666666"  # Gris medio para texto del footer, más suave
-footer-link-col: "#3399FF"  # Enlaces del footer en azul brillante
-footer-hover-col: "#0066CC"  # Hover en azul más profundo
+page-col: "#F0F4F8" 
+text-col: "#4A4A4A" 
+link-col: "#6A8DFF"  
+hover-col: "#4A6BFF"  
+navbar-col: "#BCC9E3"  
+navbar-text-col: "#4A4A4A"  
+navbar-border-col: "#A3B8D9"  
+footer-col: "#BCC9E3"  
+footer-text-col: "#7D7D7D" 
+footer-link-col: "#6A8DFF"
+footer-hover-col: "#4A6BFF" 
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/images/1584450657312.jpg"
+#navbar-img: "/images/1584450657312.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 

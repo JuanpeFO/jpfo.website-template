@@ -16,4 +16,4 @@ I enjoy exploring innovative applications in biomedicine, from diagnostic tools 
 ### Experience
 - Research assistant at HSJR (2022 - 2023)
 
-<span style="color: #1E2A3A;">[.](https://www.youtube.com/watch?v=IGjE_zgs2Hw)</span>
+<span style="color: #F0F4F8;">[.](https://www.youtube.com/watch?v=IGjE_zgs2Hw)</span>

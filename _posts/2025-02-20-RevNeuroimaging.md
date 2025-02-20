@@ -18,7 +18,7 @@ Neuroimaging plays a crucial role in understanding brain structure and function.
 
 Cloud-based HPC provides a scalable infrastructure where neuroimaging data can be processed simultaneously across multiple servers. This parallel processing leads to faster results, which is especially important in clinical settings.
 
-![Neuroimaging cloud computing](./images/cloud4.jpg)
+![Neuroimaging cloud computing](https://www.researchgate.net/publication/357291740/figure/fig1/AS:1104346309767170@1640308086080/The-overall-architecture-of-INCloud-INCloud-Integrated-Neuroimaging-Cloud-MRI.ppm)
 
 ## The Benefits of HPC in Neuroimaging
 
@@ -38,7 +38,7 @@ Cloud platforms facilitate real-time collaboration among researchers across the 
 
 Neuroimaging datasets are not only large but also sensitive. Cloud solutions provide secure storage with encryption and backup protocols to ensure data integrity and compliance with privacy regulations.
 
-![Cloud-based data storage](./images/cloud2.png)
+![Cloud-based data storage](https://www.harvard-deusto.com/sites/default/files/styles/article_front/public/2022-11/foto-ia-sanidad-web.jpg?itok=261lNw_O)
 
 ## Challenges and Considerations
 

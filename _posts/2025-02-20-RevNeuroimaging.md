@@ -3,7 +3,6 @@ layout: post
 title: Revolutionizing Neuroimaging with High-Performance Computing
 subtitle: A Look Into Cloud-Based Solutions in Neuroimaging
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [neuroimaging, HPC, cloud computing]
 comments: true
 mathjax: true

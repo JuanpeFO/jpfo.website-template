@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HOME
-subtitle: There's a secret in this page, can you find it?
+subtitle: There's a secret on this page, can you find it?
 ---
 
 

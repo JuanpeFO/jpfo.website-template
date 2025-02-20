@@ -10,7 +10,10 @@ mathjax: true
 author: Juan Pedro Fernandez
 ---
 
-{: .box-success}
+.box-success {
+  background-color: #E6F0F7; /* O el color que prefieras */
+  color: #333333; /* Para asegurar que el texto tenga buen contraste */
+}
 High-performance computing (HPC) is reshaping the landscape of neuroimaging, enabling faster, more efficient analysis of brain data. In the article *"Heads in the Cloud: A Primer on Neuroimaging Applications of High Performance Computing"*, Shatil et al. (2016) delve into how cloud-based technologies are revolutionizing this field. By utilizing distributed computing and cloud storage, researchers can now process, analyze, and store vast amounts of data with greater efficiency and speed.
 
 ## Neuroimaging and HPC: An Overview
@@ -19,7 +22,7 @@ Neuroimaging plays a crucial role in understanding brain structure and function.
 
 Cloud-based HPC provides a scalable infrastructure where neuroimaging data can be processed simultaneously across multiple servers. This parallel processing leads to faster results, which is especially important in clinical settings.
 
-![Neuroimaging cloud computing](/images/cloud4.jpg)
+![Neuroimaging cloud computing](/assets/images/cloud4.jpg)
 
 ## The Benefits of HPC in Neuroimaging
 
@@ -39,7 +42,7 @@ Cloud platforms facilitate real-time collaboration among researchers across the 
 
 Neuroimaging datasets are not only large but also sensitive. Cloud solutions provide secure storage with encryption and backup protocols to ensure data integrity and compliance with privacy regulations.
 
-![Cloud-based data storage](/images/cloud2.png)
+![Cloud-based data storage](/assets/images/cloud2.png)
 
 ## Challenges and Considerations
 

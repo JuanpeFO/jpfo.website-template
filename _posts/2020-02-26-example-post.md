@@ -1,95 +1,58 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Revolutionizing Neuroimaging with High-Performance Computing
+subtitle: A Look Into Cloud-Based Solutions in Neuroimaging
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [neuroimaging, HPC, cloud computing]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Juan Pedro Fernandez
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+High-performance computing (HPC) is reshaping the landscape of neuroimaging, enabling faster, more efficient analysis of brain data. In the article *"Heads in the Cloud: A Primer on Neuroimaging Applications of High Performance Computing"*, Shatil et al. (2016) delve into how cloud-based technologies are revolutionizing this field. By utilizing distributed computing and cloud storage, researchers can now process, analyze, and store vast amounts of data with greater efficiency and speed.
 
-**Here is some bold text**
+## Neuroimaging and HPC: An Overview
 
-## Here is a secondary heading
+Neuroimaging plays a crucial role in understanding brain structure and function. Techniques such as magnetic resonance imaging (MRI) and functional MRI (fMRI) generate large datasets that demand significant computational resources. Traditionally, processing these data required specialized workstations and lengthy procedures. However, with HPC, these processes can be completed much faster and more affordably, accelerating discoveries.
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+Cloud-based HPC provides a scalable infrastructure where neuroimaging data can be processed simultaneously across multiple servers. This parallel processing leads to faster results, which is especially important in clinical settings.
 
-Here's a table:
+![Neuroimaging cloud computing](/images/cloud4.jpg)
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+## The Benefits of HPC in Neuroimaging
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+### 1. Improved Computational Power
 
-How about a yummy crepe?
+Cloud-based HPC enables the processing of larger datasets, essential for neuroimaging techniques. Parallel processing reduces the time needed for complex analyses, making it a game-changer in research.
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+### 2. Scalability and Flexibility
 
-It can also be centered!
+Researchers can scale their computational resources up or down based on their needs, offering flexibility and cost efficiency. Cloud computing removes the limitations of local infrastructure.
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+### 3. Collaboration and Accessibility
 
-Here's a code chunk:
+Cloud platforms facilitate real-time collaboration among researchers across the globe. The data and results are stored in the cloud, providing easy access from anywhere, which enhances the efficiency of multi-center studies.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+### 4. Data Storage and Security
 
-And here is the same code with syntax highlighting:
+Neuroimaging datasets are not only large but also sensitive. Cloud solutions provide secure storage with encryption and backup protocols to ensure data integrity and compliance with privacy regulations.
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+![Cloud-based data storage](/images/cloud2.png)
 
-And here is the same code yet again but with line numbers:
+## Challenges and Considerations
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+While the advantages of HPC in neuroimaging are significant, there are still hurdles to overcome. One challenge is the cost of cloud computing, as extensive data processing and storage can accumulate quickly. Additionally, integrating cloud-based solutions into existing healthcare infrastructures may require significant adjustments, including staff training and workflow changes.
 
-## Boxes
-You can add notification, warning and error boxes like this:
+Data privacy and security are critical considerations, particularly in healthcare settings. Ensuring compliance with regulations such as HIPAA is crucial for the adoption of cloud computing in medical imaging.
 
-### Notification
+## Conclusion
 
-{: .box-note}
-**Note:** This is a notification box.
+The integration of HPC in neuroimaging is revolutionizing both research and clinical applications. Faster processing, enhanced collaboration, and secure data storage are just a few of the advantages. As cloud computing continues to advance, its role in neuroimaging will only grow, providing new insights into brain health and disease.
 
-### Warning
+For those in the medical technology field or considering the use of cloud computing in their research, it is clear that HPC is not just a passing trend—it is an essential tool for the future of neuroimaging.
 
-{: .box-warning}
-**Warning:** This is a warning box.
+**References:**
 
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+Shatil, A.S., Younas, S., Pourreza, H., & Figley, C.R. (2016). *Heads in the Cloud: A Primer on Neuroimaging Applications of High Performance Computing*. Magn Reson Insights, 8(Suppl 1), 69-80. doi: 10.4137/MRI.S23558.
